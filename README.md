@@ -4,7 +4,6 @@ A simple Task Manager web application that allows users to add, complete,
 and delete their daily tasks. Tasks update instantly on the page without any
 reload, keeping the experience smooth and straightforward.
 
-
 Technology Used: - 
 1.HTML
 2.CSS
